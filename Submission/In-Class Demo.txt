@@ -1,0 +1,15 @@
+DESERT OASIS CARAVAN STOP
+CSE-411 Mini Project 1
+
+Live demo (about one minute)
+1. Open Assets/Scenes/Caravan Stop.unity in Unity 6000.6.10f1. Enter Play Mode and click Game.
+2. Press 1. Point out the sandstone gateway and the dune basin from Arrival Ridge.
+3. Use WASD and Q/E to approach the camp. Press 2 for the tents, cart and lanterns.
+4. Press 3. Show the teal water, damp shoreline and swaying palms. Press R to reset.
+5. If time allows, press B for the imported character and F for flight. Look up or down with the mouse and hold W. Press B to return.
+
+Be ready to explain
+- Terrain uses dry sand, damp sand and rocky sand layers. The low basin holds the oasis.
+- The angled sun establishes the hot desert. Fog softens distant dunes and warm point lights support the camp.
+- OasisExplorer reads keyboard input and stores three viewpoint transforms. OasisSway preserves the resting rotation and adds a sinusoidal angle.
+- The landscape, layout and environment scripts were generated for this project with AI assistance. The optional flight controller and animated shadow character are imported and credited in Assets/CREDITS.txt.

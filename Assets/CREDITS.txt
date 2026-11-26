@@ -1,0 +1,1 @@
+Oasis scenery geometry and textures are generated in this project. The optional shadow character, camera, animations and player scripts are from 3rd Person Controller + Fly Mode (Unity Asset Store package 28647). Unity URP and its project template are supplied by Unity Technologies.
